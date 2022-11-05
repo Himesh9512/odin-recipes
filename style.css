@@ -1,8 +1,19 @@
+* {
+    background-color: black;
+    color: rgb(241, 185, 102);
+}
 .title {
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-* {
-    background-color: black;
-    color: rgb(241, 185, 102);
+.image {
+    height: 400px;
+    width: 600px;
+}
+li,p{
+    color: white;
+    font-family: monospace;
+}
+ul{
+    color: green;
 }
