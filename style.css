@@ -1,0 +1,8 @@
+.title {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+* {
+    background-color: black;
+    color: rgb(241, 185, 102);
+}
