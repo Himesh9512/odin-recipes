@@ -1,19 +1,29 @@
 * {
     background-color: black;
     color: rgb(241, 185, 102);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .title {
     text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .image {
     height: 400px;
     width: 600px;
+    margin: 20px auto;
+    display: block;
+    border: 3px solid white;
 }
 li,p{
     color: white;
     font-family: monospace;
 }
-ul{
-    color: green;
+a {
+    
+    font-size: 20px;
+    margin: 150px;
+    display: inline-block;
+}
+.homepage {
+    text-align: center;
+    display: block;
 }
